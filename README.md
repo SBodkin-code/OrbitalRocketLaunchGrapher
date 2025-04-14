@@ -1,5 +1,6 @@
 # Orbital Rocket Launch Grapher
 A multi-stage rocket launch simulation and visualization tool that models rocket trajectories, velocity profiles, and orbital insertion physics.
+![image](https://github.com/user-attachments/assets/62689b07-3800-4607-aac3-dfcee34b8b0c)
 
 ## Overview
 The Orbital Rocket Launch Grapher is a desktop application that simulates rocket launches and provides real-time graphical visualization of various flight parameters. It uses a Python backend for physics calculations and a C# Windows Forms frontend for user interaction.
